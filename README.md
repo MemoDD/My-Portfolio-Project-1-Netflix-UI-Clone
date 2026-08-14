@@ -26,7 +26,7 @@ and cross-browser responsive design.
 ![Homepage Screenshot](Images/Screenshot2026-06-21153940.png)
 
 ### Next Page
-![Next Page Screenshot](images/NextPage.png)
+![Next Page Screenshot](Images/NextPage.png)
 
 
 ## 📈 Future Enhancements
